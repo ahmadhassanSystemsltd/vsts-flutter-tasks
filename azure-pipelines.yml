@@ -1,4 +1,3 @@
-# Flutter build
 variables:
   projectDirectory: sample_project
 
